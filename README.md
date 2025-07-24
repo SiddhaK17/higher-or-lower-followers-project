@@ -1,6 +1,6 @@
 # 📊 Higher or Lower: Follower Comparison Game (CLI Edition)
 
-This interactive terminal-based game challenges users to compare global celebrities and brands by guessing who has more social media followers — a perfect fusion of entertainment and Python programming logic.
+This interactive terminal based game challenges users to compare global celebrities and brands by guessing who has more social media followers. This is a perfect fusion of entertainment and Python programming logic.
 Inspired by real world decision making and developed as a hands on challenge while progressing through the *"100 Days of Code: The Complete Python Pro Bootcamp"*, under the guidance of Dr. Angela Yu throughout the course.  
 
 
@@ -8,7 +8,7 @@ Inspired by real world decision making and developed as a hands on challenge whi
 
 ## 📖 Overview
 
-**Higher or Lower: Follower Comparison Game** is a command-line Python project that puts players’ intuition and pop culture knowledge to the test. The objective is simple yet addictive:  
+**Higher or Lower: Follower Comparison Game** is a command line Python project that puts players’ intuition and pop culture knowledge to the test. The objective is simple yet addictive:  
 > *Guess who has a higher follower count between two randomly chosen public figures or brands.*
 
 With every correct answer, the score increases. And with one wrong guess, it’s game over.  
@@ -172,13 +172,13 @@ Sorry, that's wrong. Final score: 2.
 ### 🔑 Key Highlights
 
 ✨ **Engaging CLI Experience**  
-Delivers an interactive, user friendly game interface directly in the terminal, enriched with ASCII visuals and real-time feedback.
+Delivers an interactive, user friendly game interface directly in the terminal, enriched with ASCII visuals and real time feedback.
 
-🧠 **Logic-Driven Gameplay**  
+🧠 **Logic Driven Gameplay**  
 Implements comparison logic using conditional statements and encapsulated functions to drive the game's progression.
 
 🔄 **Dynamic Content Rotation**  
-Ensures every round presents fresh, randomized comparisons from a diverse dataset — improving replayability and challenge.
+Ensures every round presents fresh, randomized comparisons from a diverse dataset improving replayability and challenge.
 
 📈 **Score Tracking Mechanism**  
 Maintains and displays the player's score across rounds, encouraging competitive gameplay and personal improvement.
@@ -186,11 +186,11 @@ Maintains and displays the player's score across rounds, encouraging competitive
 🧪 **Modular Codebase**  
 Follows clean separation of concerns using modular files (`main.py`, `game_data.py`, `art.py`) for scalability and maintainability.
 
-🎯 **Real-World Context Simulation**  
+🎯 **Real World Context Simulation**  
 Uses real life influencer data, making the game both entertaining and relatable for modern audiences.
 
-🧰 **Hands-On Python Practice**  
-Reinforces Python fundamentals such as functions, imports, data structures, input/output, loops, and control flow — ideal for beginners and learners.
+🧰 **Hands On Python Practice**  
+Reinforces Python fundamentals such as functions, imports, data structures, input/output, loops, and control flow which is ideal for beginners and learners.
 
 ---
 
@@ -201,7 +201,7 @@ Inspired by real world social media logic, the game serves as a practical applic
 
 Gratitude to:
 - **Dr. Angela Yu** for her clear and insightful teaching.
-- The **Python open-source community** for fostering a rich learning environment.
+- The **Python open source community** for fostering a rich learning environment.
 - You, the reader, for exploring this project!
 
 ---
